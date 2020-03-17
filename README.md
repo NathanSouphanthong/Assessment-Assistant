@@ -7,7 +7,7 @@ The GUI was split into 2 sections:
 
 Firstly, the user was given the option to edit or create an existing database, this allowed for easy input and edit of questions. Additionally, after changes were made to databases, these questions were stored in folders on the computer to be accessed later. The second part of the GUI is the test generator portion, this enabled the user to select a database to take questions from. After, the program randomly generates a test based on what is specified by the user, this test can also be edited to add or remove or change questions.
 
-To create the PDF me and my partner used IText API 
+
 
 Functionality
 
@@ -29,4 +29,4 @@ Editing multiple choice questions within the GUI
 
 Generating and viewing of the PDF test
 <img src = "README-IMAGES/Gif3.gif">
-
+Created using IText API
