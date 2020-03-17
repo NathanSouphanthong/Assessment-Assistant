@@ -19,4 +19,12 @@ Test Manager:
 - Option to regenerate or rename test
 - Export test to PDF 
 
+Editing short answer: 
+<img src = "README-IMAGES/Gif1.gif">
+
+Editing multiple choice: 
+<img src = "README-IMAGES/Gif2.gif">
+
+Creating test: 
+<img src = "README-IMAGES/Gif3.gif">
 
