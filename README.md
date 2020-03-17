@@ -19,12 +19,12 @@ Test Manager:
 - Option to regenerate or rename test
 - Export test to PDF 
 
-Editing short answer: 
+Editing short answer questions within the GUI (Add,Rename,Delete)
 <img src = "README-IMAGES/Gif1.gif">
 
-Editing multiple choice: 
+Editing multiple choice questions within the GUI
 <img src = "README-IMAGES/Gif2.gif">
 
-Creating test: 
+Generating and viewing of the PDF test
 <img src = "README-IMAGES/Gif3.gif">
 
