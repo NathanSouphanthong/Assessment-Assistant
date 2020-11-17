@@ -1,5 +1,4 @@
 # Test-Generator
-Grade 12 Final Project
 
 The test generator program was a tool created to aid teachers in the storing of test questions and creating a PDF test from those stored questions.
 
