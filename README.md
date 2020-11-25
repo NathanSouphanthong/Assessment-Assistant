@@ -1,6 +1,6 @@
-# Test-Generator
+# Assesment Assistant
 
-The test generator program was a tool created to aid teachers in the storing of test questions and creating a PDF test from those stored questions.
+The Assesment Assistant was a tool created to aid teachers in the storing of test questions and creating a PDF test from those stored questions.
 
 The GUI was split into 2 sections: 
 
