@@ -1,6 +1,6 @@
-# Assesment Assistant
+# Assessment Assistant
 
-The Assesment Assistant was a tool created to aid teachers in the storing of test questions and creating a PDF test from those stored questions.
+The Assessment Assistant was a tool created to aid teachers in the storing of test questions and creating a PDF test from those stored questions.
 
 The GUI was split into 2 sections: 
 
